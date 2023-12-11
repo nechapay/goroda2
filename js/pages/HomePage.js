@@ -22,135 +22,135 @@ const HomePage = {
     '  <defs id="defs2">' +
     '    <pattern id="imageBadge1" x="3" y="11" height="32" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="1" y="-3" width="28" height="20" xlink:href="./img/badge1.svg"></image>\n' +
+    '      <image x="1" y="-3" width="28" height="20" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge2" x="3" y="-10" height="32" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="10" height="10" xlink:href="./img/badge2.png"></image>\n' +
+    '      <image x="0" y="0" width="10" height="10" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge3" x="-11" y="-14" height="32" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="24" height="24" xlink:href="./img/badge3.png"></image>\n' +
+    '      <image x="0" y="0" width="24" height="24" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge4" x="-9" y="-8" height="32" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="12" height="12" xlink:href="./img/badge4.png"></image>\n' +
+    '      <image x="0" y="0" width="12" height="12" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge5" x="-3" y="8" height="18" width="14"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="14" height="14" xlink:href="./img/badge5.png"></image>\n' +
+    '      <image x="0" y="0" width="14" height="14" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge6" x="7" y="9" height="18" width="14"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="14" height="14" xlink:href="./img/badge6.png"></image>\n' +
+    '      <image x="0" y="0" width="14" height="14" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge7" x="5" y="9" height="20" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="20" height="16" xlink:href="./img/badge7.png"></image>\n' +
+    '      <image x="0" y="0" width="20" height="16" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge8" x="4" y="10" height="20" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="20" height="16" xlink:href="./img/badge8.png"></image>\n' +
+    '      <image x="0" y="0" width="20" height="16" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge9" x="-2" y="-6" height="14" width="10"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="14" height="10" xlink:href="./img/badge9.png"></image>\n' +
+    '      <image x="0" y="0" width="14" height="10" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge10" x="-3" y="5" height="20" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="16" height="20" xlink:href="./img/badge10.jpg"></image>\n' +
+    '      <image x="0" y="0" width="16" height="20" xlink:href="./img/pass.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge11" x="1" y="3" height="8" width="12"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="12" height="8" xlink:href="./img/badge11.png"></image>\n' +
+    '      <image x="0" y="0" width="12" height="8" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge12" x="8" y="10" height="14" width="18"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/badge12.png"></image>\n' +
+    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge13" x="2" y="12" height="24" width="32"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="32" height="24" xlink:href="./img/badge13.png"></image>\n' +
+    '      <image x="0" y="0" width="32" height="24" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge14" x="2" y="0" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge14.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge15" x="-1" y="7" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge15.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge16" x="6" y="9" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge16.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge17" x="-5" y="-5" height="24" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="16" height="24" xlink:href="./img/badge17.png"></image>\n' +
+    '      <image x="0" y="0" width="16" height="24" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge18" x="3" y="-3" height="14" width="20"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="20" height="14" xlink:href="./img/badge18.png"></image>\n' +
+    '      <image x="0" y="0" width="20" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge19" x="15" y="3" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge19.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge20" x="5" y="7" height="14" width="20"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="20" height="14" xlink:href="./img/badge20.png"></image>\n' +
+    '      <image x="0" y="0" width="20" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge21" x="16" y="12" height="14" width="22"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="22" height="14" xlink:href="./img/badge21.png"></image>\n' +
+    '      <image x="0" y="0" width="22" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge22" x="3" y="4" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge22.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge23" x="12" y="4" height="20" width="28"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/badge23.png"></image>\n' +
+    '      <image x="0" y="0" width="28" height="20" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge24" x="4" y="-1" height="14" width="18"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/badge24.png"></image>\n' +
+    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge25" x="-1" y="7" height="14" width="18"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/badge25.png"></image>\n' +
+    '      <image x="0" y="0" width="18" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge26" x="-2" y="2" height="12" width="18"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="18" height="12" xlink:href="./img/badge26.png"></image>\n' +
+    '      <image x="0" y="0" width="18" height="12" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge27" x="6" y="6" height="12" width="22"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="22" height="12" xlink:href="./img/badge27.png"></image>\n' +
+    '      <image x="0" y="0" width="22" height="12" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge28" x="-6" y="-4" height="24" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="24" height="24" xlink:href="./img/badge28.png"></image>\n' +
+    '      <image x="0" y="0" width="24" height="24" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge29" x="-7" y="4" height="14" width="24"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="24" height="14" xlink:href="./img/badge29.png"></image>\n' +
+    '      <image x="0" y="0" width="24" height="14" xlink:href="./img/rename.jpg"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge30" x="0" y="4" height="16" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="16" height="16" xlink:href="./img/badge30.png"></image>\n' +
+    '      <image x="0" y="0" width="16" height="16" xlink:href="./img/cosmo.png"></image>\n' +
     '    </pattern>' +
-    '    <pattern id="imageBadge31" x="4" y="-3" height="8" width="8"\n' +
+    '    <pattern id="imageBadge31" x="7" y="3" height="16" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="8" height="8" xlink:href="./img/badge31.png"></image>\n' +
+    '      <image x="0" y="0" width="16" height="16" xlink:href="./img/cosmo.png"></image>\n' +
     '    </pattern>' +
-    '    <pattern id="imageBadge32" x="-2" y="-2" height="14" width="10"\n' +
+    '    <pattern id="imageBadge32" x="1" y="3" height="16" width="16"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="10" height="14" xlink:href="./img/badge32.png"></image>\n' +
+    '      <image x="0" y="0" width="16" height="16" xlink:href="./img/cosmo.png"></image>\n' +
     '    </pattern>' +
     '    <pattern id="imageBadge33" x="0" y="2" height="8" width="8"\n' +
     '             patternUnits="userSpaceOnUse">\n' +
-    '      <image x="0" y="0" width="8" height="8" xlink:href="./img/badge33.png"></image>\n' +
+    '      <image x="0" y="0" width="8" height="8" xlink:href="./img/cosmo.png"></image>\n' +
     '    </pattern>' +
     '  </defs>' +
     '  <image\n' +
